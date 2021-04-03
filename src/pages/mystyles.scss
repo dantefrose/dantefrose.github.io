@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+// If need, change your variables before importing Bulma
+
+$taste-color-1: #504746;
+$taste-color-2: #B6244F;
+$taste-color-3: #FFB3B3;
+$taste-color-4: #FFB20F;
+$taste-color-bg: #EFF2C0;
+
+@import "~bulma/bulma.sass";
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    min-height: 110%;
+	background: linear-gradient(-45deg, $taste-color-bg, $taste-color-4, $taste-color-3);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.container {
+	padding: 0.5rem;
+}
+
+.left-menu {
+	padding-left: 1rem;
+}
+
+.right-menu {
+	display: flex;
+	justify-content: space-around;
+	flex-flow: row wrap;
+}
+
+.right-icon {
+	padding: 0.5rem;
+}
+
+.title {
+    color: black;
+}
+
+.subtitle {
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+	color: $taste-color-2;
+
+}
+
+.credits-container {
+	text-align: center;
+}
