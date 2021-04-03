@@ -1,0 +1,2 @@
+(self.webpackChunktaste_landing=self.webpackChunktaste_landing||[]).push([[643],{1904:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return i}});var a=t(7294);function i(){return a.createElement("div",{className:"container"},a.createElement("div",{className:"title is-1"},"Hidden Page!"))}}}]);
+//# sourceMappingURL=component---src-pages-hidden-page-js-166effb8c0e98c87bd16.js.map
