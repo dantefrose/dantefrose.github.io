@@ -64,7 +64,7 @@ export default function Ingredients() {
         </div>
         <div className="columns is-centered is-mobile">
           <h4 className="column is-uppercase">Creative Director</h4>
-          <h4 className="column has-text-weight-bold">Randi Fleckenstine</h4>
+          <h4 className="column has-text-weight-bold">Randi Freitas</h4>
           <a className="column" href="https://instagram.com/rascalrandi?igshid=spdxipivsyto" target="_blank">
             <FontAwesomeIcon size="lg" icon={["fab", "instagram"]} />
           </a>
