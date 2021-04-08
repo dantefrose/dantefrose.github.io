@@ -1,0 +1,2 @@
+(self.webpackChunktaste_landing=self.webpackChunktaste_landing||[]).push([[23],{7471:function(e,a,t){"use strict";t.r(a),t.d(a,{default:function(){return c}});var n=t(7294),s=t.p+"static/joshua-76913200bf6ae631e05eb2502bb5b01e.png";function c(){return n.createElement("div",{className:"secret-image-container"},n.createElement("img",{className:"image secret-image",src:s}))}}}]);
+//# sourceMappingURL=component---src-pages-joshua-page-js-d529a0915363b07e2415.js.map

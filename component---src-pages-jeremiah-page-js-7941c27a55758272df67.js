@@ -1,0 +1,2 @@
+(self.webpackChunktaste_landing=self.webpackChunktaste_landing||[]).push([[337],{5741:function(e,a,t){"use strict";t.r(a),t.d(a,{default:function(){return s}});var n=t(7294),c=t.p+"static/jeremiah-6af25f597184f6cfff57401d8d760892.png";function s(){return n.createElement("div",{className:"secret-image-container"},n.createElement("img",{className:"image secret-image",src:c}))}}}]);
+//# sourceMappingURL=component---src-pages-jeremiah-page-js-7941c27a55758272df67.js.map

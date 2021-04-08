@@ -1,0 +1,2 @@
+(self.webpackChunktaste_landing=self.webpackChunktaste_landing||[]).push([[349],{4092:function(e,a,t){"use strict";t.r(a),t.d(a,{default:function(){return s}});var n=t(7294),c=t.p+"static/john-1cd8742f0190bd0226a5134a7b79edb1.png";function s(){return n.createElement("div",{className:"secret-image-container"},n.createElement("img",{className:"image secret-image",src:c}))}}}]);
+//# sourceMappingURL=component---src-pages-john-page-js-9275c4f599bd744e4bdc.js.map
