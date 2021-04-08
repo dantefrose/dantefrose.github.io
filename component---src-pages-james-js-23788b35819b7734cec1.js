@@ -1,0 +1,2 @@
+(self.webpackChunktaste_landing=self.webpackChunktaste_landing||[]).push([[430],{4527:function(e,t,a){"use strict";a.r(t),a.d(t,{default:function(){return c}});var n=a(7294),s=a.p+"static/james-4c73eedbbf9df961f3030a626e39f44f.png";function c(){return n.createElement("div",{className:"container"},n.createElement("img",{className:"image is-fullwidth",src:s}))}}}]);
+//# sourceMappingURL=component---src-pages-james-js-23788b35819b7734cec1.js.map

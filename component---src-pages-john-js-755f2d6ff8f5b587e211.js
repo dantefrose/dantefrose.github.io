@@ -1,0 +1,2 @@
+(self.webpackChunktaste_landing=self.webpackChunktaste_landing||[]).push([[442],{6662:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return s}});var a=t(7294),c=t.p+"static/john-1cd8742f0190bd0226a5134a7b79edb1.png";function s(){return a.createElement("div",{className:"container"},a.createElement("img",{className:"image is-fullwidth",src:c}))}}}]);
+//# sourceMappingURL=component---src-pages-john-js-755f2d6ff8f5b587e211.js.map
