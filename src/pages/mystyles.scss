@@ -72,3 +72,17 @@ a:hover {
 .credits-container {
 	text-align: center;
 }
+
+.secret-image-container {
+	position: relative;
+}
+
+.secret-image {
+	max-width: 100%;
+	height: auto;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
