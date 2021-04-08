@@ -2,6 +2,8 @@ import React from "react"
 import { Link } from "gatsby"
 import "./mystyles.scss"
 import poster2 from "../images/poster2.png"
+import instructions1 from "../images/instructions1.png"
+import instructions2 from "../images/instructions2.png"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import { fab } from "@fortawesome/free-brands-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
@@ -28,6 +30,8 @@ const Index = () => (
       </div>
       <div className="cast-photo column">
         <img className="image is-fullwidth" src={poster2} />
+        <img className="image is-fullwidth" src={instructions1} />
+        <img className="image is-fullwidth" src={instructions2} />
       </div>
       <div className="right-menu column is-narrow">
           <div className="right-icon">
