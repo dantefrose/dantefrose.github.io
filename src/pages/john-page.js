@@ -1,4 +1,5 @@
 import React from "react"
+import "./mystyles.scss"
 import john from "../images/john.png"
 export default function JohnPage() {
   return (

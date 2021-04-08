@@ -1,4 +1,5 @@
 import React from "react"
+import "./mystyles.scss"
 import castphoto from "../images/castphoto.png"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import { fab } from "@fortawesome/free-brands-svg-icons"

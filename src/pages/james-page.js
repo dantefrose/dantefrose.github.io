@@ -1,4 +1,5 @@
 import React from "react"
+import "./mystyles.scss"
 import james from "../images/james.png"
 export default function JamesPage() {
   return (

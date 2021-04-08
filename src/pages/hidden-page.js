@@ -1,4 +1,5 @@
 import React from "react"
+import "./mystyles.scss"
 export default function HiddenPage() {
   return (
       <div className="container">

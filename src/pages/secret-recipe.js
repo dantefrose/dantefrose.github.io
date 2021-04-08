@@ -1,4 +1,5 @@
 import React from "react"
+import "./mystyles.scss"
 import { useState } from "react"
 import { navigate, Navigate } from "gatsby"
 
