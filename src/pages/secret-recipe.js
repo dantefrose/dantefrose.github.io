@@ -12,10 +12,9 @@ function SecretRecipe() {
   const handleSubmit = (e) => {
     e.preventDefault()
     const input = `${tablespoon}${cups}${diced}${pinch}`
-    console.log(input)
-    // should this be case sensitive?
-    if (input === "JeremiahJohnJoshuaJames") {
-      navigate('/hidden-page/')
+    const lowercase = input.toLowerCase()
+    if (lowercase === "jeremiahjohnjoshuajames") {
+      navigate('/hidden-page-success/')
     }
   }
   return (
@@ -26,7 +25,7 @@ function SecretRecipe() {
           <div className="title is-1">Secret Recipe</div>
           <form onSubmit={e => {handleSubmit(e)}}>
             <div className="field">
-              <label className="label">1 tablespoon</label>
+              <label className="label">1 tablespoon of</label>
               <div className="control">
                 <input
                   className="input"
@@ -38,7 +37,7 @@ function SecretRecipe() {
               </div>
             </div>
             <div className="field">
-              <label className="label">2 cups</label>
+              <label className="label">4 oz of</label>
               <div className="control">
                 <input
                   className="input"
@@ -50,7 +49,7 @@ function SecretRecipe() {
               </div>
             </div>
             <div className="field">
-              <label className="label">diced</label>
+              <label className="label">1 clove of</label>
               <div className="control">
                 <input
                   className="input"
@@ -62,7 +61,7 @@ function SecretRecipe() {
               </div>
             </div>
             <div className="field">
-              <label className="label">pinch of</label>
+              <label className="label">1 dash of</label>
               <div className="control">
                 <input
                   className="input"
