@@ -74,7 +74,7 @@ function SecretRecipe() {
             </div>
             <div className="field">
               <div className="control">
-                <button type="submit" className="button is-link is-light">STIR</button>
+                <button type="submit" className="button is-link is-primary">STIR</button>
               </div>
             </div>
           </form>
