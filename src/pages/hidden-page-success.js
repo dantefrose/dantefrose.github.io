@@ -5,7 +5,7 @@ export default function HiddenPageSuccess() {
   return (
     <div className="container">
       <div className="title is-2">CONGRATS YOU CONQUERED THE WORLD OF TASTE</div>
-      <div className="subtitle is-3">Here is some exclusive content for you. Enjoy.</div>
+      <div className="subtitle is-5">Here is some exclusive content for you. Enjoy.</div>
       <div className="columns">
         <div className="column">
           <HiddenTracksPlayer></HiddenTracksPlayer>
